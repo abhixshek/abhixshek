@@ -2,7 +2,8 @@
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently working as a data scientist.
 - 💞️ I’m looking to collaborate on data science and AI/ML projects
-- 📫 How to reach me abhishek.dce.2000@gmail.com
+- 📫 How to reach me: abhishek.dce.2000@gmail.com
+- 📙 [Kaggle](https://www.kaggle.com/abhixshek2000)
 
 <!---
 abhixshek/abhixshek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
