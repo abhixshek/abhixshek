@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhixshek
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently working as a Data Scientist.
+- 👀 I have been working in the field of data science and machine learning since 2022.
+- 🌱 I always strive to be a better programmer and engineer.
 - 💞️ I’m looking to collaborate on data science and AI/ML projects
 - 📫 How to reach me: abhishek.dce.2000@gmail.com
 - 📙 [Kaggle](https://www.kaggle.com/abhixshek2000)
